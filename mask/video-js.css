@@ -17,8 +17,10 @@
 
 */
 
-body{
+body {
  background-color: #01070D;
+ font-family: 'Jura', sans-serif;
+ color: white;
 }
 
 #room {
